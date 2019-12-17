@@ -1,4 +1,4 @@
-# iran-cities-and-locations
+# Iran cities and locations
 
 Perhaps the most complete list of iran cities and locations in json format
 
