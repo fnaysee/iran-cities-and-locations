@@ -559,14 +559,6 @@
         "longitude": "51.573910",
         "province": "اصفهان"
       },
-
-
-
-      {
-        "state": "&nbsp;",
-        "city": "&nbsp;",
-        "province": "&nbsp;"
-      },
       {
         "state": "البرز",
         "city": "کرج",
@@ -689,7 +681,9 @@
       {
         "state": "ایلام",
         "city": "چرداول",
-        "province": "شیروان چرداول"
+        "province": "شیروان چرداول",
+        "latitude": "33.670852",
+        "longitude": "46.757511"
       },
       {
         "state": "ایلام",
@@ -767,11 +761,6 @@
         "latitude": "33.567913",
         "longitude": "46.812133",
         "province": "سیروان"
-      },
-      {
-        "state": "&nbsp;",
-        "city": "&nbsp;",
-        "province": "&nbsp;"
       },
       {
         "state": "آذربایجان شرقی",
@@ -1217,7 +1206,9 @@
       {
         "state": "آذربایجان شرقی",
         "city": "آذران",
-        "province": "آذران"
+        "province": "هشترود",
+        "latitude": "37.476617",
+        "longitude": "47.050753"
       },
       {
         "state": "آذربایجان شرقی",
@@ -1316,11 +1307,6 @@
         "province": "خوی",
         "latitude": "38.5504343",
         "longitude": "44.95354"
-      },
-      {
-        "state": "آذربایجان غربی",
-        "city": "قره ضیاءالدین",
-        "province": "چایپاره"
       },
       {
         "state": "آذربایجان غربی",
@@ -1458,7 +1444,16 @@
       {
         "state": "آذربایجان غربی",
         "city": "چایپاره",
-        "province": "&nbsp;"
+        "province": "چایپاره",
+        "latitude": "38.890746",
+        "longitude": "45.026135"
+      },
+      {
+        "state": "آذربایجان غربی",
+        "city": "قره ضیاءالدین",
+        "province": "چایپاره",
+        "latitude": "38.890746",
+        "longitude": "45.026135"
       },
       {
         "state": "بوشهر",
@@ -1690,11 +1685,6 @@
         "latitude": "29.5820434",
         "longitude": "50.518295",
         "province": "گناوه"
-      },
-      {
-        "state": "&nbsp;",
-        "city": "&nbsp;",
-        "province": "&nbsp;"
       },
       {
         "state": "تهران",
@@ -2268,14 +2258,18 @@
         "province": "&nbsp;"
       },
       {
-        "state": "خراسان جنوبی",
+        "state": "خراسان رضوی",
         "city": "سنگان",
-        "province": "سنگان"
+        "province": "خواف",
+        "latitude": "34.402234",
+        "longitude": "60.256576"
       },
       {
         "state": "خراسان جنوبی",
         "city": "مرز میل 78",
-        "province": "مرز میل 78"
+        "province": "مرز میل 78",
+        "latitude": "32.162518",
+        "longitude": "60.865421"
       },
       {
         "state": "خراسان جنوبی",
@@ -2283,11 +2277,6 @@
         "latitude": "33.596031",
         "longitude": "56.9247263",
         "province": "طبس"
-      },
-      {
-        "state": "&nbsp;",
-        "city": "&nbsp;",
-        "province": "&nbsp;"
       },
       {
         "state": "خراسان رضوی",
@@ -2516,7 +2505,9 @@
       {
         "state": "خراسان رضوی",
         "city": "خانگیران",
-        "province": "خانگیران"
+        "province": "خانگیران",
+        "latitude": "36.412538",
+        "longitude": "60.850606"
       },
       {
         "state": "خراسان رضوی",
@@ -2641,7 +2632,9 @@
       {
         "state": "خراسان رضوی",
         "city": "رودآب",
-        "province": "سبزوار"
+        "province": "سبزوار",
+        "latitude": "36.026923",
+        "longitude": "57.318007"
       },
       {
         "state": "خراسان رضوی",
@@ -2705,11 +2698,6 @@
         "latitude": "36.631111",
         "longitude": "57.600833",
         "province": "جوین"
-      },
-      {
-        "state": "&nbsp;",
-        "city": "&nbsp;",
-        "province": "&nbsp;"
       },
       {
         "state": "خراسان شمالی",
@@ -2811,11 +2799,6 @@
         "latitude": "37.469905",
         "longitude": "57.314174",
         "province": "شعبان"
-      },
-      {
-        "state": "&nbsp;",
-        "city": "&nbsp;",
-        "province": "&nbsp;"
       },
       {
         "state": "خوزستان",
@@ -3097,12 +3080,6 @@
         "latitude": "32.204799",
         "longitude": "49.446391",
         "province": "اندیکا"
-      },
-
-      {
-        "state": " ",
-        "city": "&nbsp;",
-        "province": "&nbsp;"
       },
       {
         "state": "زنجان",
@@ -3397,12 +3374,16 @@
       {
         "state": "سیستان و بلوچستان",
         "city": "ریمدان",
-        "province": "ریمدان"
+        "province": "ریمدان",
+        "latitude": "25.408223",
+        "longitude": "61.449737"
       },
       {
         "state": "سیستان و بلوچستان",
         "city": "مرز کوهک",
-        "province": "مرز کوهک"
+        "province": "مرز کوهک",
+        "latitude": "27.135739",
+        "longitude": "63.247844"
       },
       {
         "state": "سیستان و بلوچستان",
@@ -3554,7 +3535,9 @@
       {
         "state": "سیستان و بلوچستان",
         "city": "مرز میلک",
-        "province": "مرز میلک"
+        "province": "مرز میلک",
+        "latitude": "30.971159",
+        "longitude": "61.810601"
       },
       {
         "state": "فارس",
@@ -3608,7 +3591,9 @@
       {
         "state": "فارس",
         "city": "اِوَز",
-        "province": "لارستان"
+        "province": "لارستان",
+        "latitude": "27.762588",
+        "longitude": "54.005998"
       },
       {
         "state": "فارس",
@@ -3753,7 +3738,9 @@
       {
         "state": "فارس",
         "city": "بهمن",
-        "province": "آباده"
+        "province": "آباده",
+        "latitude": "31.192208",
+        "longitude": "52.486238"
       },
       {
         "state": "فارس",
@@ -3884,17 +3871,23 @@
       {
         "state": "فارس",
         "city": "کَوار",
-        "province": "کوار"
+        "province": "کوار",
+        "latitude": "29.207177",
+        "longitude": "52.683049"
       },
       {
         "state": "فارس",
         "city": "مرکزی گراش",
-        "province": "گراش"
+        "province": "گراش",
+        "latitude": "27.668032",
+        "longitude": "54.141011"
       },
       {
         "state": "فارس",
         "city": "خور",
-        "province": "لارستان"
+        "province": "لارستان",
+        "latitude": "27.6399501",
+        "longitude": "54.3422031"
       },
       {
         "state": "فارس",
@@ -3913,7 +3906,9 @@
       {
         "state": "فارس",
         "city": "مُهر",
-        "province": "مهر"
+        "province": "مهر",
+        "latitude": "27.519610",
+        "longitude": "52.858868"
       },
       {
         "state": "فارس",
@@ -4788,7 +4783,9 @@
       {
         "state": "کرمانشاه",
         "city": "مرز شیخ صالح",
-        "province": "مرز شیخ صالح"
+        "province": "مرز شیخ صالح",
+        "latitude": "34.970647",
+        "longitude": "45.930051"
       },
       {
         "state": "کرمانشاه",
@@ -4891,7 +4888,9 @@
       {
         "state": "کهگیلویه و بویراحمد",
         "city": "محله چینی‌ها",
-        "province": "گچساران"
+        "province": "گچساران",
+        "latitude": "30.3540532",
+        "longitude": "50.8279045"
       },
       {
         "state": "کهگیلویه و بویراحمد",
@@ -4987,7 +4986,9 @@
       {
         "state": "گلستان",
         "city": "انبار آلوم",
-        "province": "آق‌قلا"
+        "province": "آق‌قلا",
+        "latitude": "37.132984",
+        "longitude": "54.629817"
       },
       {
         "state": "گلستان",
@@ -5090,7 +5091,9 @@
       {
         "state": "گیلان",
         "city": "رودبار زیتون",
-        "province": "رودبار زیتون"
+        "province": "رودبار زیتون",
+        "latitude": "36.813603",
+        "longitude": "49.459162"
       },
       {
         "state": "گیلان",
@@ -5270,7 +5273,9 @@
       {
         "state": "گیلان",
         "city": "مارلیک",
-        "province": "رودبار"
+        "province": "رودبار",
+        "latitude": "36.830533",
+        "longitude": "49.459033"
       },
       {
         "state": "گیلان",
@@ -5492,7 +5497,9 @@
       {
         "state": "لرستان",
         "city": "رومشگان",
-        "province": "رومشگان"
+        "province": "رومشگان",
+        "latitude": "33.268762",
+        "longitude": "47.568526"
       },
       {
         "state": "مازندران",
@@ -5644,7 +5651,9 @@
       {
         "state": "مازندران",
         "city": "رستمکلا",
-        "province": "بهشهر"
+        "province": "بهشهر",
+        "latitude": "36.5532407",
+        "longitude": "52.894535"
       },
       {
         "state": "مازندران",
@@ -5656,17 +5665,23 @@
       {
         "state": "مازندران",
         "city": "گرجی‌محله",
-        "province": "بهشهر"
+        "province": "بهشهر",
+        "latitude": "36.684587",
+        "longitude": "53.546709"
       },
       {
         "state": "مازندران",
         "city": "بندر امیر آباد",
-        "province": "بهشهر"
+        "province": "بهشهر",
+        "latitude": "36.853304",
+        "longitude": "53.355548"
       },
       {
         "state": "مازندران",
         "city": "زاغمرز",
-        "province": "بهشهر"
+        "province": "بهشهر",
+        "latitude": "36.805126",
+        "longitude": "53.303110"
       },
       {
         "state": "مازندران",
@@ -5685,7 +5700,9 @@
       {
         "state": "مازندران",
         "city": "نکا",
-        "province": "نکا"
+        "province": "نکا",
+        "latitude": "36.647082",
+        "longitude": "53.297150"
       },
       {
         "state": "مازندران",
@@ -5697,7 +5714,9 @@
       {
         "state": "مازندران",
         "city": "دابودشت",
-        "province": "آمل"
+        "province": "آمل",
+        "latitude": "36.476629",
+        "longitude": "52.447385"
       },
       {
         "state": "مازندران",
@@ -5709,12 +5728,16 @@
       {
         "state": "مازندران",
         "city": "خوش‌رودپی",
-        "province": "بابل"
+        "province": "بابل",
+        "latitude": "36.373577",
+        "longitude": "52.566855"
       },
       {
         "state": "مازندران",
         "city": "زرگرمحله",
-        "province": "بابل"
+        "province": "بابل",
+        "latitude": "36.546907",
+        "longitude": "52.680571"
       },
       {
         "state": "مازندران",
@@ -6007,7 +6030,9 @@
       {
         "state": "مرکزی",
         "city": "داودآباد",
-        "province": "داودآباد"
+        "province": "داودآباد",
+        "latitude": "34.297248",
+        "longitude": "49.849953"
       },
       {
         "state": "هرمزگان",
@@ -6053,11 +6078,6 @@
       },
       {
         "state": "هرمزگان",
-        "city": "مهران",
-        "province": "مهران"
-      },
-      {
-        "state": "هرمزگان",
         "city": "قشم",
         "latitude": "26.8594605",
         "longitude": "56.0064541",
@@ -6076,6 +6096,13 @@
         "latitude": "27.0173998",
         "longitude": "54.2839961",
         "province": "بستک"
+      },
+      {
+        "state": "هرمزگان",
+        "city": "مهران",
+        "province": "بستک",
+        "latitude": "26.829293",
+        "longitude": "53.828680"
       },
       {
         "state": "هرمزگان",
@@ -6170,8 +6197,10 @@
       },
       {
         "state": "هرمزگان",
-        "city": "یردف",
-        "province": "یردف"
+        "city": "لیردف",
+        "province": "لیردف",
+        "latitude": "25.639746",
+        "longitude": "58.868780"
       },
       {
         "state": "همدان",
@@ -6363,9 +6392,11 @@
         "province": "اردکان"
       },
       {
-        "state": "یزد",
+        "state": "خراسان جنوبی",
         "city": "دیهوک",
-        "province": "دیهوک"
+        "province": "طبس",
+        "latitude": "33.291961",
+        "longitude": "57.512094"
       },
       {
         "state": "یزد",
